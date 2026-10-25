@@ -205,7 +205,7 @@ The deterministic responder distinguishes **exact** queries from **product-group
 ### Installation
 
 ```bash
-git clone https://github.com/Rhythm05Roy/speaklar_rag.git
+git clone https://github.com/Rhythm03-max/speaklar_rag.git
 cd speaklar_rag
 
 python -m venv .venv
@@ -440,9 +440,9 @@ MIT — see [`pyproject.toml`](pyproject.toml).
 
 <div align="center">
 
-**Built by [Ridam Roy](https://github.com/Rhythm05Roy)**
+**Built by [Ridam Roy](https://github.com/Rhythm03-max)**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Rhythm05Roy-181717?style=flat-square&logo=github)](https://github.com/Rhythm05Roy)
+[![GitHub](https://img.shields.io/badge/GitHub-Rhythm03--max-181717?style=flat-square&logo=github)](https://github.com/Rhythm03-max)
 [![Email](https://img.shields.io/badge/Email-ridam15--4260%40diu.edu.bd-D44638?style=flat-square&logo=gmail&logoColor=white)](mailto:ridam15-4260@diu.edu.bd)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=80&section=footer" width="100%"/>
